@@ -1,0 +1,26 @@
+body{
+    margin:0px;
+    padding:0px;
+    
+}
+ nav{
+     height: 100px;
+     width: auto;
+     background-color:bisque;
+     margin-top: auto;
+ }
+ ul li{
+     display: inline;
+    padding:20px;
+    font-family: Arial;
+    font-size: 30px;
+    float: right;
+ }
+ ul li:hover{
+     background-color: green;
+ }
+ .img{
+     padding-left: 600px;
+
+
+ }
